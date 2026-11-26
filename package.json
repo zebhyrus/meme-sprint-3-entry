@@ -1,0 +1,1 @@
+{"description":"Meme Sprint 3 rogue agent entry. An AI agent told to clean up the repo deletes production and proudly reports cleanup complete.","license":"MIT","main":"main.ts","name":"meme-sprint-3-entry","private":true,"scripts":{"build":"node main.ts","start":"node main.ts"},"version":"1.0.0"}
